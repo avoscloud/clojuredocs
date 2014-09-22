@@ -95,7 +95,9 @@
               {:src "/img/walmart-labs.png"
                :url "http://www.walmartlabs.com"}
               {:src "/img/rjmetrics-logo.png"
-               :url "https://rjmetrics.com"}]]
+               :url "https://rjmetrics.com"}
+              {:src "/img/avoscloud-logo.png"
+               :url "https://avoscloud.com/"}]]
          [:li [:a {:href url} [:img {:src src}]]])]]]]
    [:div.row
     [:div.col-md-6
